@@ -1,1 +1,4 @@
 Nealon Federico, Martin Harry, Panello Fausto
+
+1) Si, una vez que se realiza el commit.
+2) También, cuando se suben los cambios los demás integrantes lo ven.
