@@ -6,3 +6,7 @@ Nealon Federico, Martin Harry, Panello Fausto
 Beta
 3) Si, luego de pushear archivos, los colaboradores los ven
 4) Nos comunicamos por WhatsApp
+
+Gamma
+5) Si bien nos comunicamos por WhatsApp, la pestaña de Projects es muy cómoda para poder ir viendo lo que hicimos, y lo que hay
+   que hacer.
