@@ -1,4 +1,4 @@
 Nombre: Fausto
 Apellido: Panello
-Edad: 18
-Pais: Argentina
+IP: 192.168.0.125
+Hora: 10:54
