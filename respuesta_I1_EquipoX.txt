@@ -2,3 +2,7 @@ Nealon Federico, Martin Harry, Panello Fausto
 
 1) Si, una vez que se realiza el commit.
 2) También, cuando se suben los cambios los demás integrantes lo ven.
+
+Beta
+3) Si, luego de pushear archivos, los colaboradores los ven
+4) Nos comunicamos por WhatsApp
