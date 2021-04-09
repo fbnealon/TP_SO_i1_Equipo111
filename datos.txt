@@ -1,2 +1,4 @@
 Nombre: Fausto
 Apellido: Panello
+Edad: 18
+Pais: Argentina
