@@ -2,3 +2,9 @@ Nombre: Fausto
 Apellido: Panello
 IP: 192.168.0.125
 Hora: 10:54
+
+Codigo: Beta
+Nombre: Harry
+Apellido: Martin
+IP: 192.168.1.42
+Hora: 11:06
